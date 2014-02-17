@@ -1,0 +1,17 @@
+label{
+	font-size:30px;
+	display:block;
+	color:#999;
+}
+a{
+	color:#556270
+}
+
+#body{
+    position:relative;
+    top:100px;
+}
+
+#body a:hover{
+    border-bottom: 2px solid #556270;
+}

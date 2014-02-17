@@ -1,0 +1,76 @@
+.newCommentorNameDiv{
+    padding: 20px 0px;
+    
+}
+
+.newCommentContentDiv{
+    padding: 20px 0px;    
+}
+
+.newCommentorNameLabel, .newCommentContentLabel{
+ width: 75px;   
+ display: inline-block;
+}
+
+.newCommentContentLabel{
+    vertical-align: top;
+     
+}
+
+.newCommentorNameError, .newCommentContentError{
+	color:red;
+	fonr-size:15px;
+	font-style: italic;	
+	margin-left: 10px;
+}
+
+ .newCommentContentError{
+ 	vertical-align: top;
+ }
+
+.comments{
+    margin: 35px 0;
+	
+}
+
+.comment{
+    color: #333;
+	
+    width: 600px;
+    border-top: 1px solid #eee;
+    padding: 17px;
+}
+
+.commentorName{
+    font-size: 20px;
+	
+    text-transform: capitalize;
+    color: #556270;
+}
+
+.commentContent{
+    text-transform: capitalize;
+	
+    font-size: 15px;
+    padding: 10px;
+}
+
+.commentTime{
+    float: right;
+	
+    font-size: 10px;
+}
+
+.year{
+	
+}
+
+.month{
+	
+	
+}
+
+.day{
+	
+	
+}

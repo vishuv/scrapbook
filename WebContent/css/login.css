@@ -1,0 +1,73 @@
+.email,.password,.submit {
+	padding: 10px 0px;
+}
+
+.emailError,.passwordError,.submitError {
+	color: red;
+	font-size: 15px;
+	font-style: italic;
+	margin-left: 10px;
+}
+
+.emailLabel,.passwordLabel {
+	width: 70px;
+	display: inline-block;
+}
+
+.emailText,.passwordText {
+
+}
+
+.email {
+	
+}
+
+.emailLabel {
+	
+}
+
+.emailText {
+	
+}
+
+.emailError {
+	
+}
+
+.password {
+	
+}
+
+.passwordLabel {
+	
+}
+
+.passwordText {
+	
+}
+
+.passwordError {
+	
+}
+
+.submit {
+	
+}
+
+.submitButton {
+
+}
+
+.submitError {
+	
+}
+
+.newUser {
+	color: #555;
+}
+
+.newUser a {
+	color: #556270;
+	font-style: italic;
+	font-size: 15px;
+}

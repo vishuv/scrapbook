@@ -1,0 +1,35 @@
+.newPostHeadingDiv{
+    padding: 20px 0px;
+    
+}
+
+.newPostContentDiv{
+    padding: 20px 0px;    
+}
+
+.newPostContentLabel, .newPostHeadingLabel{
+ width: 50px;   
+ display: inline-block;
+}
+
+.newPostContentLabel{
+    vertical-align: top;
+     
+}
+
+.enableComments{
+    display: inline;
+    position: relative;
+    left: 275px;
+}
+
+.newPostHeadingError, .newPostContentError{
+	color:red;
+	fonr-size:15px;
+	font-style: italic;	
+	margin-left: 10px;
+}
+
+ .newPostContentError{
+ 	vertical-align: top;
+ }

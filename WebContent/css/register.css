@@ -1,0 +1,23 @@
+.name {
+	padding: 10px 0px;
+}
+
+.nameError {
+	color: red;
+	font-size: 15px;
+	font-style: italic;
+	margin-left: 10px;
+}
+
+.nameLabel {
+	width: 70px;
+	display: inline-block;
+}
+
+.nameText {
+
+}
+
+form{
+	margin-top:25px;
+}
